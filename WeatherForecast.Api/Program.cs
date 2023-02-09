@@ -26,7 +26,6 @@ namespace WeatherForecast.Api
 
             app.UseAuthorization();
 
-
             app.MapControllers();
 
             app.Run();
