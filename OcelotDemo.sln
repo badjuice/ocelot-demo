@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ocelot.Demo", "Ocelot.Demo\Ocelot.Demo.csproj", "{9729A636-16EA-42D4-9C04-85424B2BB97D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherForecast.Api", "WeatherForecast.Api\WeatherForecast.Api.csproj", "{A9069DB2-3866-4A01-925A-EF44A1F8F3CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9729A636-16EA-42D4-9C04-85424B2BB97D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9729A636-16EA-42D4-9C04-85424B2BB97D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9729A636-16EA-42D4-9C04-85424B2BB97D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9729A636-16EA-42D4-9C04-85424B2BB97D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9069DB2-3866-4A01-925A-EF44A1F8F3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9069DB2-3866-4A01-925A-EF44A1F8F3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9069DB2-3866-4A01-925A-EF44A1F8F3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9069DB2-3866-4A01-925A-EF44A1F8F3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD78B20D-80BF-4171-94D5-4D4E3CA8693A}
+	EndGlobalSection
+EndGlobal
